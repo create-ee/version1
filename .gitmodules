@@ -1,0 +1,12 @@
+[submodule "version2"]
+	path = version2
+	url = https://github.com/create-ee/version2.git
+[submodule "version3"]
+	path = version3
+	url = https://github.com/create-ee/version3.git
+[submodule "version4"]
+	path = version4
+	url = https://github.com/create-ee/version4.git
+[submodule "version5"]
+	path = version5
+	url = https://github.com/create-ee/version5.git
