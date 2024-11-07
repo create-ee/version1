@@ -1,6 +1,3 @@
-[submodule "version2"]
-	path = version2
-	url = https://github.com/create-ee/version2.git
 [submodule "version3"]
 	path = version3
 	url = https://github.com/create-ee/version3.git
